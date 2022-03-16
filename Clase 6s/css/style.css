@@ -1,0 +1,17 @@
+p{background-color: #E6E6E6;}
+
+h1 {color: #005677;
+            text-align: center;
+            line-height: 60px;}
+
+.fondoGris{background-color: #C4C4C4;
+            color: #005677;}
+.fondoAzul{background-color: #005677;
+            color: white;
+            text-align: center;}
+
+
+.negritaItalic{font-weight: bold;
+                font-style: italic;}
+
+.negrita{font-weight: bold;}
