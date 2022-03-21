@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Caladea&display=swap');
+
+@import url("https://use.fontawesome.com/releases/v6.1.0/css/all.css");
+
+body{font-family: 'Caladea', serif;}
+
+.iconos{color: aliceblue;}
+
+
+.fotocarnet{height: 272px;
+            width: 100%;
+            background-image: url("../img/Foto.jpg"), url("../img/fondofoto.webp");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: auto, cover;
+}
+
+.sobremi{font-size: 20px;
+          font-family:'Caladea', serif;
+          font-style: italic ;}
+
+
+h1 {color: #005677;
+            text-align: center;
+            line-height: 60px;}
+
+.fondoGris{background-color: #C4C4C4;
+            color: #005677;}
+.fondoAzul{background-color: #005677;
+            color: white;
+            text-align: center;}
+
+
+.negritaItalic{font-weight: bold;
+                font-style: italic;}
+
+.negrita{font-weight: bold;}
+
+.fuente{text-decoration: underline;
+        text-align: left;}
+
