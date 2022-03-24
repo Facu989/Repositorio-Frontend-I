@@ -1,0 +1,50 @@
+@import url("https://use.fontawesome.com/releases/v6.1.0/css/all.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+header{font-family: 'roboto', serif;}
+body{font-family: 'roboto', serif;}
+footer{font-family: 'roboto', serif;}
+
+.fondonegro{background-color: #222222;
+    color: #F3F3F3;
+    }
+
+.fondonaranja{background-color: #F0A83E;
+    color: #FFFFFF;
+    }     
+
+h2{font-size: 30px;
+   text-align: center; }
+
+.fondobanner{background-image: url('../img/bowl-and-pet-daities-on-green-background\ 1.png');
+            height: 407px;
+            width: 100%  ;
+            background-repeat: no-repeat;
+            background-size: cover;
+            text-align: center;}
+
+.fondocomedero{background-color: #F0A83E;
+               color: #FFFFFF;}
+
+h1{font-size: 40px;
+   font-weight: bold; }
+
+.fuentemarron{color: #3C2313;
+              font-size: 15px;}
+
+.fuenteamarilla{color: #F0A83E;
+                font-size: 15px;}
+
+.fondofooter{background-color: #3C2313;
+             color:  #FFFFFF;
+            font-size: 20px;
+            font-weight: 700;}
+.letrachicafooter{color: #8A8787;
+                  font-size: 10px;}
+
+.fin{background-color: #F0A83E;
+     font-size: 10;
+     text-align: center;
+     color: #FFFFFF;}                  
+
+       
