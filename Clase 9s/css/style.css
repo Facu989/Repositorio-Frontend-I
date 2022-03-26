@@ -1,0 +1,84 @@
+*{margin: 0px;}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+header{font-family: 'Roboto', sans-serif;}
+main{font-family: 'Roboto', sans-serif;}
+footer{font-family: 'Roboto', sans-serif;}
+
+.descuento{background-color: #1CD1B0;
+            font-size: 15px;
+            line-height: 38px;
+            padding-left: 10px;}
+
+.heroes{background-color: #00669F;
+        font-size: 40px;
+        line-height: 101px;
+        padding-left: 10px; }
+
+.derechos{background-color: #00669F;
+          background-size: cover;
+          font-size: 16px;
+          line-height: 51px;
+          width: 100%;
+          padding-left: 10px;
+          color: #FFF9F9;
+          position: absolute;
+          top:972px}
+
+.divgrande{position: absolute;
+           top: 293px;
+           }
+
+.divbatman{background-color: #F3F3F3;
+           background-image: url('../img/849bfede3a5193c34ab8a00379e64fa2\ 1.png');
+           background-repeat: no-repeat;
+           width: 300px;
+           height: 529px;
+           position: absolute;
+           left: 32px;}
+
+.divquinn{background-color: #F3F3F3;
+          background-image: url('../img/2849bfede3a5193c34ab8a00379e64fa2\ 1.png');
+          background-repeat: no-repeat;
+          width: 300px;
+          height: 529px;
+          position: absolute;
+          left: 362px;}
+
+.divbatman2{background-color: #F3F3F3;
+            background-image: url('../img/849bfede3a5193c34ab8a00379e64fa2\ 1.png');
+            background-repeat: no-repeat;
+            width: 300px;
+            height: 529px;
+            position: absolute;
+            left: 692px;}
+
+.corazon{position: absolute;
+        left: 21px;
+        top: 15.88px;}
+
+.radio{position: absolute;
+       top: 128px;
+       left: 90px;
+       border-radius: 59px;
+        }
+
+.texto{position: absolute;
+       top: 268px;
+       left: 16px;
+       width: 267px;}
+
+.titulo{font-size: 30px;
+        text-align: center;}
+
+.vermas{position: absolute;
+        width: 128.78px;
+        height: 48.72px;
+        top: 462px;
+        left: 85px;
+        background-color: #00669F;}
+
+.boton{text-align: center;
+        line-height: 48.72px;
+        color: white;}
