@@ -1,0 +1,269 @@
+@import url("https://use.fontawesome.com/releases/v6.1.0/css/all.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{margin: 0px;
+  padding: 0px;
+  box-sizing: border-box; }
+
+body{font-family: 'roboto', serif;
+}
+
+
+.fondonegro{background-color: #222222;
+            color: #F3F3F3;
+            display: flex;
+            justify-content: space-between;
+            height: 20px;
+            font-size: 10px;
+            align-items: center;
+            padding-left: 90px;
+}
+.flecha{font-size: 6px;
+}
+.lista1{display: flex;
+        font-size: 10px;
+        width: 90px;
+        padding-right: 52px;
+        justify-content: space-between;
+}
+
+
+.fondonaranja{background-color: #F0A83E;
+              color: #FFFFFF;
+              display: flex;
+              height: 62px;
+              justify-content: space-between;
+              align-items: center;
+              padding-left: 40.8px;
+              padding-right: 40px;
+}     
+.logo1{height: 23px;
+}
+.lista2{display: flex;
+        font-size: 13px;
+        width: 340px;
+        justify-content: space-between; 
+}
+
+
+h2{font-size: 30px;
+   text-align: center;
+   background-color: #FFFFFF;
+   width: 365px;
+   height: 54px;
+   border-radius: 5px;
+}
+
+
+.fondobanner{background-image: url('../img/bowl-and-pet-daities-on-green-background\ 1.png');
+            height: 409px;
+            width: 100%  ;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-end;
+            gap: 12px;
+}
+.titulo{display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 12px;
+}
+.fondocomedero{background-color: #F0A83E;
+               color: #FFFFFF;
+               height: 49px;
+               width: 141px;
+               border-radius: 5px;
+               margin-right: 117px;
+               display: flex;
+               align-items: center;
+               justify-content: center;
+               font-size: 16px;
+}
+.ofertas{font-size: 16px;
+         margin-right: 95px;
+}
+
+/*Cuerpo*/
+/*Primerdiv*/
+.cuerpo{display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+}
+.patita{margin-top: 12px;
+        margin-bottom: 5px;
+}
+h1{
+   width: 406px;
+   height: 47px;
+   font-size: 40px;
+   font-weight: bold;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.listado{font-size: 15px;
+         color: #666666;
+        margin-top: 20px;
+}
+
+/*Segundodiv*/
+
+.imagenes{display: flex;
+          justify-content: center;
+          align-items: center;
+}
+.cuadrito{display: flex;
+          flex-direction: column;
+          justify-content: flex-start;
+          align-items: center;
+          height: 312px;
+          width: 265px;
+          margin-left: 10px;
+          margin-right: 10px;
+}
+
+.fuentemarron{color: #3C2313;
+              font-size: 15px;
+              font-weight: 500;}
+
+.fuenteamarilla{color: #F0A83E;
+                font-size: 15px;
+                font-weight: 500;}
+
+.fondofooter{background-color: #3C2313;
+             color:  #FFFFFF;
+             font-size: 20px;
+             font-weight: 700;}
+
+.letrachicafooter{color: #8A8787;
+                  font-size: 10px;
+                  font-weight: 700;}
+
+.fin{background-color: #222222;
+     font-size: 10;
+     text-align: center;
+     color: #FFFFFF;
+     font-weight: 700;}                  
+
+
+/*Trecerdiv*/
+.cuerpo2{display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 78px;
+        margin-bottom: 75px;
+        width: 340px; 
+}
+.fuentemarron2{color: #3C2313;
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 29px;
+        margin-bottom: 15px;
+}
+.formulariomarron{width: 340px;
+                  height: 40px;
+                  border-radius: 15px;
+                  background-color: #3C2313;
+                  margin-top: 5px;
+                  margin-bottom: 5px;
+                  color: #FFFFFF;
+                  font-size: 9px;
+                  line-height: 40px;
+                  padding-left: 14.11px;
+}
+.divformulario{display: flex;
+                justify-content: center;
+}
+.formulariogris{width: 110px;
+                height: 34px;
+                border-radius: 15px;
+                background-color: #8A8787;
+                margin-top: 36px;
+                color: #FFFFFF;
+                font-size: 16px;
+                line-height: 34px;
+                text-align: center;
+                margin-right: 3px;
+}
+.formularioamarillo{width: 110px;
+        height: 34px;
+        border-radius: 15px;
+        background-color: #F0A83E;
+        margin-top: 36px;
+        color: #FFFFFF;
+        font-size: 16px;
+        line-height: 34px;
+        text-align: center;
+        margin-left: 3px;
+}
+
+/*Footer*/
+.suscribcion{height: 60px;
+             background-color: #F0A83E;
+             color: #FFFFFF;
+             margin-left: 3px;
+             display: flex;
+             padding-left: 23px;
+             padding-right: 47px;
+             justify-content: space-between;
+             align-items: center;
+}
+.suscribcioninicio{font-size: 20px;
+                   font-weight: 700;
+                   padding-left: 10px;
+}
+.suscribcioncorreo{width: 271px;
+                   height: 40px;
+                   border-radius: 15px;
+                   background-color: #FFFFFF;
+                   margin-right: 5px;
+                   color: #A0A0A0;
+                   font-size: 9px;
+                   line-height: 40px;
+                   padding-left: 8px;
+}
+.suscribcionboton{width: 70px;
+                  height: 34px;
+                  border-radius: 15px;
+                  background-color: #3C2313;
+                  color: #FFFFFF;
+                  font-size: 9px;
+                  line-height: 34px;
+                  text-align: center;
+                  font-weight: 700;
+}
+.divsuscribcion{display: flex;
+                justify-content: center;
+                align-items: center;
+}
+
+
+.contacto{display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 23px 70px;
+          height: 284px;
+
+}
+.contacto2{display: flex;
+           justify-content: space-between;
+           flex-direction: column;
+           gap: 20px;
+}
+.contacto3{display: flex;
+           justify-content: space-between;
+           position: relative;
+}
+.logofondo{height: 23px;
+}
+.contacto4{position: absolute;
+           left: 91px;
+           width: 300px;}
